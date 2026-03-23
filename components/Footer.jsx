@@ -34,12 +34,17 @@ export default function Footer() {
                 </a>
               </li>
               <li>
+                <a href="#testimonials" className="text-white/70 hover:text-gold text-sm transition-colors">
+                  Reviews
+                </a>
+              </li>
+              <li>
                 <a href="#contact" className="text-white/70 hover:text-gold text-sm transition-colors">
                   Contact
                 </a>
               </li>
               <li>
-                <a href="#apply" className="text-white/70 hover:text-gold text-sm transition-colors">
+                <a href="#contact" className="text-white/70 hover:text-gold text-sm transition-colors">
                   Apply Now
                 </a>
               </li>

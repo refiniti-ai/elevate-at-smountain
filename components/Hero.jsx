@@ -25,8 +25,7 @@ export default function Hero() {
           Newly renovated studio, 1, and 2-bedroom apartments in South Phoenix.
         </p>
         <Link
-          href="#apply"
-          id="apply"
+          href="#contact"
           className="inline-flex items-center px-8 py-4 rounded-lg bg-gold text-navy font-bold text-lg hover:bg-gold-light transition-all shadow-lg hover:shadow-gold/30 hover:scale-105"
         >
           Apply Now ($499 Move-In Special!)

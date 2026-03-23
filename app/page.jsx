@@ -3,6 +3,7 @@ import Hero from '@/components/Hero';
 import OneCheck from '@/components/OneCheck';
 import FloorPlans from '@/components/FloorPlans';
 import Amenities from '@/components/Amenities';
+import Testimonials from '@/components/Testimonials';
 import Neighborhood from '@/components/Neighborhood';
 import ResidentPortal from '@/components/ResidentPortal';
 import Contact from '@/components/Contact';
@@ -16,6 +17,7 @@ export default function Home() {
       <OneCheck />
       <FloorPlans />
       <Amenities />
+      <Testimonials />
       <Neighborhood />
       <ResidentPortal />
       <Contact />

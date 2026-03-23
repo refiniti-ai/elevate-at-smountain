@@ -32,13 +32,19 @@ export default function Header() {
               Amenities
             </a>
             <a
+              href="#testimonials"
+              className="text-sm font-medium text-white/90 hover:text-gold transition-colors hidden sm:block"
+            >
+              Reviews
+            </a>
+            <a
               href="#contact"
               className="text-sm font-medium text-white/90 hover:text-gold transition-colors hidden sm:block"
             >
               Contact
             </a>
             <a
-              href="#apply"
+              href="#contact"
               className="inline-flex items-center px-4 py-2 rounded-lg bg-gold text-navy font-semibold text-sm hover:bg-gold-light transition-colors"
             >
               Apply Now

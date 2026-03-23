@@ -50,7 +50,7 @@ export default function ResidentPortal() {
             </span>
             <span className="text-white/90">for every friend you refer!</span>
             <a
-              href="#apply"
+              href="#contact"
               className="px-6 py-3 rounded-lg bg-gold text-navy font-semibold hover:bg-gold-light transition-colors"
             >
               Resident Referral Reward
